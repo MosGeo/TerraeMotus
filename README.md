@@ -1,5 +1,6 @@
 
-# TerraeMotus: Earthquake warning system using recurrent neural networks
+# TerraeMotus: Earthquake warning system
+This code is a prototype to predict earthquakes using recurrent neural network.
 
 ## Packages required
 - Numby

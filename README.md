@@ -1,6 +1,6 @@
-# TerraeMotus - Earthquake recognition and prediction using deep neural networks
-* Mustafa Al Ibrahim, Jihoon Park, and Noah Athens
-* {malibrah, jhpark3, nathens}@stanford.edu
+% TerraeMotus - Earthquake recognition and prediction using deep neural networks
+% Mustafa Al Ibrahim; Jihoon Park; Noah Athens
+% {malibrah, jhpark3, nathens}@stanford.edu
 
 <div align="center">
     <img width=500 src="https://github.com/MosGeo/TerraeMotus/blob/master/Figures/SeismicWaveformExample.PNG" alt="Process" title="Seismic waveform example"</img>

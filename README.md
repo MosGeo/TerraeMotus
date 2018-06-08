@@ -13,9 +13,9 @@ Earthquake seismology is a major topic relevant to understanding hazards due to 
 
 
 ### Two binary classification problems addressed:
-* Given a seismic waveform, ***has\_*** an earthquake occurred?
+* Given a seismic waveform, ***has*** an earthquake occurred?
 
-* Given a seismic waveform, ***will\_*** an earthquake occur?
+* Given a seismic waveform, ***will*** an earthquake occur?
 
 ## Generating a training set
 

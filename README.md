@@ -1,9 +1,9 @@
-TerraeMotus - Detecting and predicting earthquakes using deep neural networks
+TerraeMotus - Earthquake recognition and prediction using deep neural networks
 =====
 
 ## Overview
 
-Earthquake seismology is a major topic relevant to understanding hazards due to natural and induced earthquakes as well as understanding physical properties of the earth's crust. In the past decade, the number of seismic monitoring stations has increased dramatically, leading the field of research to transition from an observation-based science to a data-driven science. This project demonstrates the efficacy of applying deep neural networks to earthquake detection and earthquake prediction problems. 
+Earthquake seismology is a major topic relevant to understanding hazards due to natural and induced earthquakes as well as understanding physical properties of the earth's crust. In the past decade, the number of seismic monitoring stations has increased dramatically, leading the field of research to transition from an observation-based science to a data-driven science. This project demonstrates the efficacy of applying deep neural networks to earthquake recogntion and earthquake prediction problems. 
 
 ## Motivation
 
@@ -13,9 +13,9 @@ Earthquake seismology is a major topic relevant to understanding hazards due to 
 
 
 ### Two binary classification problems addressed:
-* Given a seismic waveform, has an earthquake occurred?
+* Given a seismic waveform, ***has\_*** an earthquake occurred?
 
-* Given a seismic waveform, will an earthquake occur?
+* Given a seismic waveform, ***will\_*** an earthquake occur?
 
 ## Generating a training set
 

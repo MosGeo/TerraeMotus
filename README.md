@@ -8,7 +8,7 @@ Earthquake seismology is a major topic relevant to understanding hazards due to 
 ## Motivation
 
 <div align="center">
-    <img width=750 src="https://github.com/MosGeo/TerraeMotus/blob/master/Figures/SeismicWaveformExample.PNG" alt="Process" title="Seismic waveform example"</img>
+    <img width=500 src="https://github.com/MosGeo/TerraeMotus/blob/master/Figures/SeismicWaveformExample.PNG" alt="Process" title="Seismic waveform example"</img>
 </div>
 
 
@@ -20,7 +20,7 @@ Earthquake seismology is a major topic relevant to understanding hazards due to 
 ## Generating a training set
 
 <div align="center">
-    <img width=750 src="https://github.com/MosGeo/TerraeMotus/blob/master/Figures/StudyAreaMap.PNG" alt="Process" title="Geysers Geothermal Study Area"</img>
+    <img width=500 src="https://github.com/MosGeo/TerraeMotus/blob/master/Figures/StudyAreaMap.PNG" alt="Process" title="Geysers Geothermal Study Area"</img>
 </div>
 
 

@@ -1,6 +1,6 @@
 TerraeMotus - Earthquake recognition and prediction using deep neural networks
-Mustafa Al Ibrahim, Jihoon Park, and Noah Athens
-{malibrah, jhpark3, nathens}@stanford.edu
+###Mustafa Al Ibrahim, Jihoon Park, and Noah Athens
+###{malibrah, jhpark3, nathens}@stanford.edu
 =====
 
 <div align="center">
